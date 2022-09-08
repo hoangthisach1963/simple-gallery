@@ -1,3 +1,7 @@
 /.gradle/
 /.idea/
 /local.properties
+/app/.gradle/
+/.build/
+/app/.build/
+/build/intermediates/lint-cache/
