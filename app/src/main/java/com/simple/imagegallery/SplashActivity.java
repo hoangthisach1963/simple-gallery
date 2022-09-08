@@ -31,7 +31,7 @@ public class SplashActivity extends AppCompatActivity {
     private DialogPermission dialogPermission;
 
     @Override
-    protected void onCreate(@Nullable @org.jetbrains.annotations.Nullable Bundle savedInstanceState) {
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
         this.btnStart = findViewById(R.id.btn_start);
